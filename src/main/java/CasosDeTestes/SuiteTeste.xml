@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Visualizar video Vem me levantar">
+    <test name="Visualizar video Vem me levantar">
+        <classes>
+            <class name="CasosDeTestes.Caso_Teste_001" />
+            <class name="genericCenarioWeb.FecharNavegadorWeb" />
+        </classes>
+    </test>
+</suite>

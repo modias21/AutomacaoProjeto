@@ -1,0 +1,95 @@
+[33mcommit 5397041cd6d52b47148df9199f1f74c0ba08f79d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Fri Mar 8 16:48:10 2019 -0300
+
+    empurrando suite e novos casos criados
+
+[33mcommit fa0b1b56be5a7a446dcd93a6aee1e68ba223955a[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Wed Feb 20 08:37:53 2019 -0300
+
+    teste
+
+[33mcommit 9b975d7a36b11e3749bcf5fb2f452c1e2d24cbb6[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Mon Feb 18 11:22:08 2019 -0300
+
+    retirar "CE"
+
+[33mcommit 7d96faf9d7a55d0115fc1d445469cbc24237a531[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Mon Feb 18 09:48:43 2019 -0300
+
+    Criação da suite
+
+[33mcommit a86e3df84ef92f0c723eb1a1505ffb5f487435f4[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Fri Feb 15 14:47:09 2019 -0200
+
+    teste
+
+[33mcommit 98785d03f2a05ecd1c259913ac7ba51df1928fd8[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Fri Feb 15 14:43:02 2019 -0200
+
+    criação da suite de teste.
+
+[33mcommit 3f89e7ff3c0c8ce6162dbdccdc58bd59e123628f[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Thu Feb 14 17:27:09 2019 -0200
+
+    correção geral;
+
+[33mcommit 21c0befd20c031cffccbe5d4abda7f6781333df2[m
+Merge: a7a13dc 52e5830
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Thu Feb 14 17:24:58 2019 -0200
+
+    Merge branch 'master' of http://gitlab.maximasistemas.com.br/murillo.dias/automacaomaxpromotor
+
+[33mcommit a7a13dc14f43678388c10b558e92df0ec7e05bf0[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Thu Feb 14 17:19:54 2019 -0200
+
+    teste
+
+[33mcommit bf8d88219803b49767cb234e4d05e2f5350c38f0[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Thu Feb 14 17:17:07 2019 -0200
+
+    alterarção de verificação.
+
+[33mcommit 52e583007b42ed1e9880a2f5f48c8f49ee17680d[m
+Merge: d200169 aa47ef6
+Author: Paulo Alves <paulo.alves@maximasistemas.com.br>
+Date:   Thu Feb 14 16:35:15 2019 -0200
+
+    Merge branch 'master' of http://gitlab.maximasistemas.com.br/murillo.dias/automacaomaxpromotor
+    
+    # Conflicts:
+    #       src/main/java/br/ce/maximaSistemas/core/DriverFactory.java
+    #       src/main/resources/2.18.12.003.apk
+
+[33mcommit d2001699cf8ed6a2bb15494fe96188860ea8fa63[m
+Author: Paulo Alves <paulo.alves@maximasistemas.com.br>
+Date:   Thu Feb 14 16:30:12 2019 -0200
+
+    alteração
+
+[33mcommit aa47ef6e75bc3575f66905599146550f5c28623b[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Thu Feb 14 16:07:17 2019 -0200
+
+    alteração no caminho da Apk.
+
+[33mcommit 4a902e3917a5804e6f36e25248d40ac132868b62[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Thu Feb 14 14:22:20 2019 -0200
+
+    Alteração feito no login
+
+[33mcommit d66c39dc81e5a5bbf777a468566e62defcc0a614[m
+Author: Murillo Dias <murillo.dias@maximasistemas.com.br>
+Date:   Wed Feb 13 16:51:47 2019 -0200
+
+    Refatoracao - iniciando projeto
